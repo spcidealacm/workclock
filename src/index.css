@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto",
+        "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
+        "Helvetica Neue", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background: #68a4ff;
+    background-image: linear-gradient(
+        to bottom right,
+        #69c0ff 0%,
+        #b7eb8f 100%
+    );
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* align-self: center; */
+    min-height: 100vh;
+}

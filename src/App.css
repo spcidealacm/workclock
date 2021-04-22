@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.whole_background {
+    display: flex;
+    justify-content: center;
+    /* align-self: center; */
+    align-items: center;
+    flex-wrap: wrap;
+    max-width: 1300px;
+}
